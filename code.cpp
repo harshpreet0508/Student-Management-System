@@ -1,7 +1,5 @@
 /*****************************************
 * PROJECT ON DATABASE MANAGEMENT OF SCHOOL *
-  BY:- AMAN MAHAJAN
-       HARSHPREET KAUR
   *****************************************/
 
 		/*************************
@@ -14,6 +12,7 @@
 #include<stdio.h>              // For function like gets().
 #include<process.h>            // For exit(0) function.
 #include<dos.h>                // For delay() function.
+
 		/***************************
 	       * STRUCTURE FOR STORING DATE *
 		 ****************************/
